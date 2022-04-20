@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 
 - 
 -->
-🔭 Currently, I work as a　speech-language therapist in Japan
+🔭 Currently, I work as a speech-language therapist in Japan
 
 📊 I code in the R programming language
